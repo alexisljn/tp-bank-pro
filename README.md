@@ -14,3 +14,8 @@ Utiliser l'API
 -
 
 - Documentation dispo sur http://localhost/api/doc
+
+Déploiement
+-
+
+- Deployé sur Heroku : https://bank-pro.herokuapp.com/api/doc
