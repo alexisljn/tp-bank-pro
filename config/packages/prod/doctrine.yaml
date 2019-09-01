@@ -11,7 +11,7 @@ doctrine:
             type: service
             id: doctrine.result_cache_provider
     dbal:
-        driver: 'pdo_mysql'
+        driver: 'pdo_pgsql'
         charset: utf8
 
 services:
