@@ -1,0 +1,15 @@
+users:
+  type: rest
+  resource: App\Controller\UserController
+
+subscriptions:
+  type: rest
+  resource: App\Controller\SubscriptionController
+
+cards:
+  type: rest
+  resource: App\Controller\CardController
+
+admin:
+  type: rest
+  resource: App\Controller\AdminController
