@@ -1,5 +1,6 @@
 TP BANK PRO
 =
+[![Build Status](https://travis-ci.com/alexisljn/tp-bank-pro.svg?branch=master)](https://travis-ci.com/alexisljn/tp-bank-pro)
 
 Installer
 -
